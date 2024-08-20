@@ -2,7 +2,7 @@ import React, { useState } from "react"; // Importamos React y useState desde 'r
 import "./App.css"; // Importamos los estilos del archivo App.css
 
 function App() {
-  // Definimos el componente principal App
+  // Definimos el compon   dkdkddente principal App
 
   const [tasks, setTasks] = useState([
     {
